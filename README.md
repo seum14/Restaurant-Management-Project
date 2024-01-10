@@ -68,4 +68,4 @@ The project includes the following features:
 
 ## Project Files
 
-The project files can be accessed from this Google Drive link: https://drive.google.com/drive/folders/11Hl2HcBo5S5cqMZQH3IxyGQDdAfzGlyL?usp=drive_link . Please note that you'll need to set up the database as described in the 'How to Run This Project' section before running the project.
+The project files and project presentation video can be accessed from this Google Drive link: https://drive.google.com/drive/folders/11Hl2HcBo5S5cqMZQH3IxyGQDdAfzGlyL?usp=drive_link . Please note that you'll need to set up the database as described in the 'How to Run This Project' section before running the project.
